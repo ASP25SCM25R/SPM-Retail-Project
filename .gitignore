@@ -3,3 +3,5 @@
 .env
 phase_1/.env
 phase_1/.cache
+phase_2/.env
+phase_2/.cache
